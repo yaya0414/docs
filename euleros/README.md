@@ -19,6 +19,8 @@ WARNING:
 -	[`2.3.1809`, `latest` (*2.3.1809/x86_64//Dockerfile*)](https://github.com/euleros/euleros-docker-images/blob/db22e2c392c3922d2c674110c90667576618f348/2.3.1809/x86_64//Dockerfile)
 -	[`2.2` (*2.2/Dockerfile*)](https://github.com/euleros/euleros-docker-images/blob/959f378638f222bd1eebe8dccf267cccbc118174/2.2/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/euleros/badge/icon) (`amd64/euleros` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/euleros/)
+
 # Quick reference
 
 -	**Where to get help**:  
